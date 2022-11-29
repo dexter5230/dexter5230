@@ -8,8 +8,8 @@ Stay free to know a little more about my life, follow me on my networks where I 
 
 - 🏠 I love being with my family and friends, they are everything to me.
 - 👀 I’m interested in solving problems on LeetCode, playing video games, and watching shows on NetFlix.
-- 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to find a entry-level dev job
+- 🌱 I’m currently using SpringBoot for the frame of back-end web development
+- 💞️ I’m looking to find a backend dev job
 - 📫 How to reach me ...
   - LinkedIn: https://www.linkedin.com/in/jiaxuan-wu-a40763136/
   - LeetCode: https://leetcode.com/DexterWu/
