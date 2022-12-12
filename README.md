@@ -2,7 +2,7 @@
 
 
 ## Hello World! 你好，世界！🌍
-I'm Jiaxuan Wu and a Australian permenant resident 🇦🇺 and Chinese 🇨🇳. Currently I am a Software Engineer in Mlebourne, 🦘 passionate about solving problems with technology and creating different solutions. 👀 
+I'm Jiaxuan Wu and a Australian permenant resident and Chinese. Currently I am a Software Engineer in Mlebourne, 🦘 passionate about solving problems with technology and creating different solutions. 👀 
 
 Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things. 🚀 💻
 
